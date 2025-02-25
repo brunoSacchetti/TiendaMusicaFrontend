@@ -1,0 +1,4 @@
+.instrument-card {
+    flex: 0 0 30%; /* Ancho del 30% */
+    flex-wrap: wrap; /* Envoltura flexible */
+}
