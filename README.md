@@ -1,17 +1,24 @@
-npm install mercadopago
+# Proyecto Tienda de Instrumentos Musicales
+## Este proyecto consta del backend realizado en JAVA / Spring Boot utilizando MySQL, y el frontend utilizando REACT, TypeScript, HTML, CSS. Es una tienda de instrumentos musicales, en la cual se pueden observar los productos, agregarlos o quitarlos del carrito y pagar con Mercado Pago. Además cuenta con inicio de sesión, dependiendo del usuario que inicie sesión, son los apartados que se mostrarán, como los pedidos realizados, los reportes y gráficos.
 
-npm install @mercadopago/sdk-react
+### Dependencias utilizadas y datos de tarjetas de credito para probar Mercado Pago: 
 
-npm install react-chartjs-2 chart.js
+- npm install mercadopago
 
-USUARIO CUENTA MERCADO PAGO EJEMPLO
+- npm install @mercadopago/sdk-react
 
-user = TESTUSER268780590
+- npm install react-chartjs-2 chart.js
 
-password = 2bJHzcdrBV
+### USUARIO CUENTA MERCADO PAGO EJEMPLO
 
-5031 7557 3453 0604
+- user = TESTUSER268780590
 
-123
+- password = 2bJHzcdrBV
 
-11/25
+- 5031 7557 3453 0604
+
+- 123
+
+- 11/25
+
+- Link al repositorio backend: https://github.com/brunoSacchetti/TiendaMusicaBackend
